@@ -7,3 +7,6 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Bioinformatics. You might have a lot of data when it comes to things like genomics or proteomics and have to perform parts of data science on it.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines two branches and keeps both histories, while rebasing creates a linear history by moving commits.
