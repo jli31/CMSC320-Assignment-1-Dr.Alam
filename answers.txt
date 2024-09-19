@@ -10,3 +10,7 @@ Answer: Bioinformatics. You might have a lot of data when it comes to things lik
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging combines two branches and keeps both histories, while rebasing creates a linear history by moving commits.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Skills with github, and then also learning things about pandas and SQL too!
