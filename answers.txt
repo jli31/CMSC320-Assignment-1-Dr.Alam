@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Bioinformatics. You might have a lot of data when it comes to things like genomics or proteomics and have to perform parts of data science on it.
